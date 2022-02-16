@@ -31,4 +31,7 @@ client.login(token);
 
 /**
  * @todo Get voice working so the bot can join channels and play local audio
+ * @link https://discordjs.guide/voice/#installation
+ * @link https://discordjs.guide/popular-topics/faq.html#how-do-i-ban-a-user
+ * @link https://github.com/jgibson02/SeinfeldEntranceBot/blob/master/index.js
  */
